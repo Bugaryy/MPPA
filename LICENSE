@@ -1,0 +1,67 @@
+LICENCIA DE SOFTWARE PROPIETARIO — TODOS LOS DERECHOS RESERVADOS
+
+MPPA Panamá Pacífico 3D
+Copyright (c) 2026 Derek Cuan ("Delta Charlie")
+https://github.com/Bugaryy
+
+1. Titularidad
+   Este software, incluido su código fuente, su diseño de interfaz, sus
+   modelos 3D, la geometría trazada (pista, calles de rodaje, plataformas y
+   edificios), el terreno generado y la documentación (en adelante, "el
+   Software"), es obra de Derek Cuan ("Delta Charlie") y está protegido por
+   las leyes de derecho de autor de la República de Panamá y por los tratados
+   internacionales aplicables.
+
+2. Uso permitido
+   Se concede a la persona que recibe el Software, de forma personal, no
+   exclusiva, intransferible y revocable, el derecho a abrirlo y usarlo
+   únicamente con fines de estudio personal.
+
+3. Usos prohibidos
+   Sin autorización previa y por escrito del autor, queda prohibido:
+   a) copiar, redistribuir, publicar, alojar o compartir el Software, total
+      o parcialmente, por cualquier medio;
+   b) modificar, traducir, adaptar o crear obras derivadas del Software;
+   c) vender, alquilar, sublicenciar o usar el Software con fines
+      comerciales, incluida su inclusión en cursos, plataformas o productos
+      de pago;
+   d) eliminar o alterar los avisos de autoría, el nombre "Delta Charlie" o
+      esta licencia;
+   e) extraer los datos, texturas o modelos del Software para usarlos por
+      separado.
+
+4. Contenido de terceros
+   El Software contiene o se basa en material de terceros que mantiene sus
+   propios derechos y condiciones:
+   - Información aeronáutica tomada de la AIP de Panamá (AD 2.6-MPPA),
+     publicada por la Autoridad Aeronáutica Civil de Panamá.
+   - Imágenes satelitales tomadas de capturas de Google Maps, sujetas a los
+     términos de Google y de sus proveedores de imágenes.
+   - La biblioteca three.js (licencia MIT, (c) 2010-2026 three.js authors).
+   - Las tipografías IBM Plex (SIL Open Font License 1.1).
+   Esta licencia no otorga ningún derecho sobre dicho material.
+
+5. Uso no operacional
+   El Software es una herramienta de estudio. NO es apto para la navegación
+   aérea, el control de tránsito aéreo, la planificación de vuelos ni
+   ningún otro uso operacional. Para cualquier uso operacional se debe
+   consultar siempre la AIP de Panamá vigente y los NOTAM. Partes del modelo
+   son aproximadas (relieve, alturas de edificios y algunas posiciones), y se
+   indican así dentro de la propia aplicación.
+
+6. Exención de garantías
+   EL SOFTWARE SE ENTREGA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+   IMPLÍCITA, INCLUIDAS LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN
+   FIN DETERMINADO, EXACTITUD Y NO INFRACCIÓN. EN NINGÚN CASO EL AUTOR SERÁ
+   RESPONSABLE DE RECLAMACIONES, DAÑOS U OTRAS RESPONSABILIDADES DERIVADAS
+   DEL USO O DE LA IMPOSIBILIDAD DE USO DEL SOFTWARE.
+
+7. Terminación
+   Esta licencia termina automáticamente si se incumple cualquiera de sus
+   condiciones. Al terminar, se debe dejar de usar el Software y eliminar
+   todas sus copias.
+
+8. Licencias comerciales y permisos
+   Para usos distintos de los permitidos en el punto 2 (por ejemplo, uso
+   institucional, en academias o de forma comercial), contacte al autor:
+   https://github.com/Bugaryy
